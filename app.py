@@ -48,7 +48,7 @@ texttrace = go.Scattermapbox(
         fillcolor='grey',
         marker=dict(
         size=12,  # Adjust the size of the dots
-        color='rgb(242, 177, 172)',  # Set the color to red
+        color='#FF5C5C',  # Set the color to red
         opacity=0.85,
         #symbol='square' # Adjust the opacity of the dots
         ),
