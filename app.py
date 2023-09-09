@@ -24,7 +24,7 @@ schools = pd.read_csv('schools - schools.csv')
 work_permissions = pd.read_csv('work_permissions.csv')
 
 
-st.set_page_config(page_title='My Webpage', page_icon=':tada', layout='wide')
+st.set_page_config(page_title='CAA Chabely', page_icon=':tada', layout='wide')
 
 st.title("Welcome to CAA Chabely's CAA Map!!")
 st.write("Hi I'm Chabely, a Certified Anesthesiologist Assistant! Check out my [Youtube](https://www.youtube.com/@CAALifestyle) for more information!!!")
