@@ -1,12 +1,6 @@
-import json 
 import pandas as pd 
-import re
-import numpy as np
-import geopandas as gpd
 from streamlit_folium import st_folium
 import streamlit as st
-import random 
-import json 
 
 
 schools = pd.read_csv('schools - schools.csv')
