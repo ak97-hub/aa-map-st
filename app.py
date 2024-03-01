@@ -19,7 +19,7 @@ st.markdown("- Nevada 2024: Veterans Affairs ->> Full Practice")
 st.markdown("---")
 st.subheader('Certified Anesthesiologist Assistant Practice USA Map, Sep. 2023')
 
-with open("output.html", "r") as f:
+with open("updated_output.html", "r") as f:
     html_content = f.read()
 
 with st.container():
