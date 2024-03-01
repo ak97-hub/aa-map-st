@@ -14,6 +14,7 @@ st.write("Hi I'm Chabely, a Certified Anesthesiologist Assistant! Check out my [
 
 st.markdown("---")
 st.subheader("Updates: :tada: :tada: :tada:")
+st.markdown("- Washington 2024: Veterans Affairs ->> Full Practice")
 st.markdown("- Nevada 2024: Veterans Affairs ->> Full Practice")
 st.markdown("---")
 st.subheader('Certified Anesthesiologist Assistant Practice USA Map, Sep. 2023')
