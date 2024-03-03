@@ -16,7 +16,8 @@ st.markdown("---")
 st.subheader("Updates: :tada: :tada: :tada:")
 st.markdown("- Washington 2024: Veterans Affairs ->> Full Practice")
 st.markdown("- Nevada 2023: Veterans Affairs ->> Full Practice; bill signed 2023, effective 1/1/24")
-st.markdown("Ongoing legislation: PA, AZ, TN, IL")
+st.markdown("- Ongoing legislation: PA, AZ, TN, IL")
+
 st.markdown("---")
 st.subheader('Certified Anesthesiologist Assistant Practice USA Map, Sep. 2023')
 
