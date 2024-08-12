@@ -18,7 +18,7 @@ st.markdown("- Kansas City University announces plans for anesthesiologist assis
 st.markdown("- Washington 2024: Veterans Affairs ->> Full Practice")
 st.markdown("- Nevada 2023: Veterans Affairs ->> Full Practice; bill signed 2023, effective 1/1/24")
 st.markdown("- Ongoing legislation: PA, AZ, TN, IL")
-st.markdown("NOTES:")
+st.subheader("NOTES:")
 st.markdown("- Kentucky- requires PA licensing in addition to AA licensing")
 st.markdown("- Click circle on map to see school name")
 
