@@ -24,7 +24,7 @@ st.markdown("- Kentucky- requires PA licensing in addition to AA licensing")
 st.markdown("- Click circle on map to see school name")
 
 st.markdown("---")
-st.subheader('Certified Anesthesiologist Assistant Practice USA Map, Aug. 2024')
+st.subheader('Certified Anesthesiologist Assistant Practice USA Map, March 2025')
 
 with open("updated_output.html", "r") as f:
     html_content = f.read()
