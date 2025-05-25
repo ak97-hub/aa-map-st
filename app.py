@@ -14,6 +14,8 @@ st.write("Hi I'm Chabely, a Certified Anesthesiologist Assistant! Check out my [
 
 st.markdown("---")
 st.subheader("Updates: :tada: :tada: :tada:")
+st.markdown("- University of Mary Hardin-Baylor Opening in Fall 2026")
+st.markdown("- Tennessee Full Practice 2026")
 st.markdown("- Virginia CAA state legislature- effective 7/1/25!!")
 st.markdown("- Kansas City University announces plans for anesthesiologist assistant program beginning in January 2026")
 st.markdown("- Washington 2024: Veterans Affairs ->> Full Practice")
